@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "email": "harish@test.com",
+      "name": "Harish",
+      "password": "har@123",
+      "id": 1
+    },
+    {
+      "email": "Aru@test.com",
+      "password": "Test@12",
+      "name": "Aru",
+      "id": 2
+    },
+    {
+      "email": "Aru@test.com",
+      "password": "Test@12",
+      "name": "Aru",
+      "id": 3
+    },
+    {
+      "email": "Dhana@test.com",
+      "password": "Dhana@123",
+      "name": "Dhana",
+      "id": 4
+    },
+    {
+      "email": "Buddy@test.com",
+      "password": "Buddy@123",
+      "name": "Buddy",
+      "id": 5
+    },
+    {
+      "email": "Murthy@test.com",
+      "password": "Murthy@123",
+      "name": "Murthy",
+      "id": 6
+    },
+    {
+      "email": "Annu@test.com",
+      "password": "Annu@123",
+      "name": "Annu",
+      "id": 7
+    },
+    {
+      "email": "Annu@test.com",
+      "password": "Annu@1",
+      "name": "Annu",
+      "id": 8
+    },
+    {
+      "email": "har@test.com",
+      "password": "har@1234",
+      "name": "Har",
+      "id": 9
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Burger King",
+      "contact": "11111",
+      "address": "Hindupur",
+      "id": "1"
+    },
+    {
+      "name": "KFC",
+      "contact": "22222",
+      "address": "Hindupur",
+      "id": "2"
+    },
+    {
+      "name": "Dominos",
+      "address": "Hindupur",
+      "contact": "33333",
+      "id": "3"
+    }
+  ]
+}
